@@ -3,7 +3,7 @@
 ## Student Details
 
 **Name:** RAHIMA BANU N  
-**Register Number:**192525009
+**Register Number:** 192525009
 **Course Code:** CSA1512-CLOUD COMPUTING AND DATA ANALYTICS
 **Slot:** B
 **Faculty Name:** Dr Rajesh Babu C
